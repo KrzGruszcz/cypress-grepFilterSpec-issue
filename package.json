@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cypress": "^10.7.0",
+    "cypress-grep": "^3.0.3"
+  },
+  "scripts": {
+    "cypress": "cypress run"
+  }
+}
